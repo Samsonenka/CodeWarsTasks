@@ -1,4 +1,4 @@
-package SumWithoutHighestAndLowestNumberTest;
+package sumWithoutHighestAndLowestNumberTest;
 import SumWithoutHighestAndLowestNumber.SumWithoutHighestAndLowestNumber;
 import org.junit.Test;
 import static junit.framework.TestCase.assertEquals;
